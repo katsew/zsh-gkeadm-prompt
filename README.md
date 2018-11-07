@@ -2,6 +2,11 @@
 
 zsh prompt layout for GKE Administrators.
 
+## Installation
+
+git clone this repo to certain directory.  
+sourcing `/path/to/_prompt.zsh` on your .zshrc.
+
 ## Features
 
 Change PROMPT format to `[$project/$cluster_name] ($namespace)`.  
