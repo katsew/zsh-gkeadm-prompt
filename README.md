@@ -18,3 +18,6 @@ prompt become red, otherwise green.
 
 ![Demo](https://github.com/katsew/zsh-gkeadm-prompt/blob/master/prompt.gif)
       
+## License
+
+MIT
